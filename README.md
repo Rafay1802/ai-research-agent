@@ -2,7 +2,12 @@
 
 An autonomous AI agent that searches the web, reasons across multiple sources, and delivers detailed answers to any question — all in real time.
 
-![AI-AGENT](https://github.com/user-attachments/assets/206f37e3-cc41-4d29-bf96-bf3870e1977f)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.54-red)
+![Groq](https://img.shields.io/badge/Groq-GPT--OSS--120b-orange)
+![Tavily](https://img.shields.io/badge/Tavily-Search%20API-green)
+
+![AI-AGENT](https://github.com/user-attachments/assets/c6d6ac06-9fa4-4e6e-acf3-3f036cfe938e)
 
 ---
 
